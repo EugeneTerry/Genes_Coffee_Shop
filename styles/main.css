@@ -1,0 +1,13 @@
+.pageHeader {}
+
+.list  {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.shop_name  {
+  border: 1px dotted crimson;
+  padding: 1em;
+  margin: 0.5em;
+}
